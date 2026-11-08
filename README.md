@@ -35,6 +35,7 @@
 
 Mahzen için canlı demo, kurulum ve fiyat bilgisi almak isterseniz:
 
+- 📄 **Ürün sayfası:** [tumabilisim.com/urun/mahzen](https://tumabilisim.com/urun/mahzen)
 - 🌐 **Teklif formu:** [tumabilisim.com/iletisim](https://tumabilisim.com/iletisim?urun=Mahzen)
 - 💬 **WhatsApp:** [+90 533 432 15 12](https://wa.me/905334321512?text=Merhaba%2C%20Mahzen%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum.)
 - ✉️ **E-posta:** [info@tumabilisim.com](mailto:info@tumabilisim.com?subject=Mahzen%20hakk%C4%B1nda)
@@ -50,7 +51,7 @@ Mahzen için canlı demo, kurulum ve fiyat bilgisi almak isterseniz:
 
 **Mahzen** — Zero-knowledge team password vault. End-to-end encryption in the browser (AES-256-GCM + RSA-OAEP), shared team vaults, role-based access, automatic key rotation and audit logs.
 
-Live product: https://mahzen.app · Contact: [info@tumabilisim.com](mailto:info@tumabilisim.com) · WhatsApp: [+90 533 432 15 12](https://wa.me/905334321512)
+Live product: https://mahzen.app · Product page: https://tumabilisim.com/urun/mahzen · Contact: [info@tumabilisim.com](mailto:info@tumabilisim.com) · WhatsApp: [+90 533 432 15 12](https://wa.me/905334321512)
 
 </details>
 
